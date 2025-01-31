@@ -24,6 +24,7 @@ enum framework_keycodes {
   KC_SCRN = SAFE_RANGE,
   FN_LOCK,
   KC_CPLT,
+  L0_LOCK
 };
 
 extern bool bios_mode;
